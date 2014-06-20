@@ -49,8 +49,8 @@ var Shareabouts = Shareabouts || {};
       el: '#shareabouts-container',
       // TODO: Set the initial location of your map
       map: {
-        center: [39.952780, -75.163136],
-        zoom: 12
+        center: [39.842286, -75.379772],
+        zoom: 14
       },
       // TODO: Update your map tiles. Kindly use your own since OpenPlans
       // has to pay for these. =)
